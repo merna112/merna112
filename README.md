@@ -100,9 +100,15 @@ I leverage a diverse set of technologies and tools to develop robust, scalable, 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:merna.adel.cs@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mernaadel112"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/mernaadel1"><img src="https://img.shields.io/badge/Discord-mernaadel1-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:mernaadel182@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/merna-adel-4b4426269" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discordapp.com/users/mernaadel1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-mernaadel1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
 
 ---
