@@ -25,8 +25,8 @@
 
 ## 🧠 About Me
 
-- 🎓 3rd-year CS student @ University of Al-Alamein  
-- 💼 3+ years of professional experience as a Full Stack Developer  
+- 🎓 4th-year CS student @ University of Al-Alamein  
+- 💼 2+ years of professional experience as a Full Stack Developer  
 - 💡 Passionate about scalable architecture, OS-level thinking, and clean code  
 - 🔥 MERN Stack expert with strong foundations in threading, memory management, and design patterns  
 - 📬 Always happy to collaborate on open-source or academic projects  
