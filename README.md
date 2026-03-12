@@ -83,19 +83,7 @@ I leverage a diverse set of technologies and tools to develop robust, scalable, 
 **Concepts**  
 🧠 OS Theory • Multithreading • SOLID • MVC • Clean Code
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merna112&show_icons=true&theme=react&hide_border=true" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=merna112&theme=react&hide_border=true" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=merna112&theme=react-dark&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
