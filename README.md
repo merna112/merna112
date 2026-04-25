@@ -8,10 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/merna112?tab=repositories">
-    <img src="https://img.shields.io/github/followers/merna112?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/merna112">
-    <img src="https://badges.pufler.dev/repos/merna112" alt="Total Repos">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/merna112&query=$.public_repos&label=Repos&color=blue" alt="Total Repos">
   </a>
   <a href="https://discordapp.com/users/mernaadel1">
     <img src="https://img.shields.io/badge/discord-mernaadel1-5865F2?style=flat&logo=discord&logoColor=white" />
