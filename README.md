@@ -7,9 +7,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/merna112">
-    <img src="https://komarev.com/ghpvc/?username=merna112&label=Profile%20views&color=0e75b6&style=flat" alt="merna112" />
-  </a>
   <a href="https://github.com/merna112?tab=repositories">
     <img src="https://img.shields.io/github/followers/merna112?label=Follow&style=social" alt="GitHub Followers">
   </a>
@@ -25,8 +22,7 @@
 
 ## 🧠 About Me
 
-- 🎓 4th-year CS student @ University of Al-Alamein  
-- 💼 2+ years of professional experience as a Full Stack Developer  
+- 💼 3+ years of professional experience as a Full Stack Developer  
 - 💡 Passionate about scalable architecture, OS-level thinking, and clean code  
 - 🔥 MERN Stack expert with strong foundations in threading, memory management, and design patterns  
 - 📬 Always happy to collaborate on open-source or academic projects  
