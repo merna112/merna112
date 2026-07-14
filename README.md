@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-- 💼 3+ years of professional experience as a Full Stack Developer  
+- 💼 3+ years of professional experience as a Backend Engineer  
 - 💡 Passionate about scalable architecture, OS-level thinking, and clean code  
 - 🔥 MERN Stack expert with strong foundations in threading, memory management, and design patterns  
 - 📬 Always happy to collaborate on open-source or academic projects  
