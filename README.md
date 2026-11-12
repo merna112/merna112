@@ -69,3 +69,11 @@
   <a href="https://discordapp.com/users/mernaadel1">💬 Discord</a> • 
   <a href="https://github.com/merna112">🌐 GitHub</a>
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=merna112&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
